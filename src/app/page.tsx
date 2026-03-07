@@ -6,7 +6,7 @@ export default function Home() {
             {/* Navigation Bar */}
             <nav className="w-full max-w-6xl mx-auto px-4 md:px-6 py-4 md:py-6 flex justify-between items-center z-50">
                 <div className="text-xl md:text-2xl font-bold tracking-tight gradient-text">
-                    ARIANNA LURE<span className="text-white font-light">EXCLUSIVE</span>
+                    KIIM JOI<span className="text-white font-light">EXCLUSIVE</span>
                 </div>
                 <div className="flex gap-6 items-center">
                     <Link href="#content" className="text-sm uppercase tracking-wider text-gray-400 hover:text-white transition-colors">
@@ -32,7 +32,7 @@ export default function Home() {
 
                 <h1 className="text-5xl sm:text-6xl md:text-8xl font-bold tracking-tighter mb-4 md:mb-6 leading-tight">
                     Unlock the <br className="hidden md:block" />
-                    <span className="gradient-text">Unfiltered Arianna Lure.</span>
+                    <span className="gradient-text">Unfiltered Kiim Joi.</span>
                 </h1>
 
                 <p className="text-base sm:text-lg md:text-xl text-gray-400 max-w-2xl mx-auto mb-8 md:mb-10 leading-relaxed">
@@ -165,7 +165,7 @@ export default function Home() {
             {/* Footer */}
             <footer className="w-full border-t border-white/10 py-8 md:py-12 px-4 md:px-6 mt-auto flex flex-col items-center glass-panel rounded-none z-10">
                 <div className="text-2xl font-bold tracking-tight mb-6">
-                    ARIANNA LURE<span className="text-white font-light">EXCLUSIVE</span>
+                    KIIM JOI<span className="text-white font-light">EXCLUSIVE</span>
                 </div>
                 <p className="text-gray-500 text-sm mb-8 text-center max-w-md">
                     Premium content. All rights reserved. Do not distribute or reproduce content.
@@ -178,7 +178,7 @@ export default function Home() {
                     ))}
                 </div>
                 <p className="text-gray-600 text-xs text-center">
-                    &copy; {new Date().getFullYear()} Arianna Lure Exclusive. Built for top fans.
+                    &copy; {new Date().getFullYear()} Kiim Joi Exclusive. Built for top fans.
                 </p>
             </footer>
         </main>
